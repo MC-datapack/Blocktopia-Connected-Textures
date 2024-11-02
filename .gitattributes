@@ -1,1 +1,2 @@
 *.properties linguist-language=Java-Properties linguist-detectable
+*.json linguist-language=JSON linguist-detectable
